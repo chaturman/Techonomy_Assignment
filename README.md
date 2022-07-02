@@ -1,5 +1,5 @@
 # Techonomy_Assignment
-##On why the dataset is interesting?
+#On why the dataset is interesting?
 
 
 I have extracted this dataset from Kaggle API, I feel that churn modelling and prediction is one of the most important 
@@ -15,7 +15,7 @@ I could have chosen a problem from the Geospatial domain related to classificati
 Although I also did have ideas for this project, which would merge the  location intelligence aspects as well. But lets keep that for some other time.
 
 
-##On the model:- 
+#On the model:- 
 
 Logistic Regression is one of the basic models of binary classification. It is important in this particular case as it allows us to know
 whether a customer will churn or not. The accuracy score of the model is also decent which is 80% accrate. Of course there exists other much accurate
